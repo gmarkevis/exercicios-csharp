@@ -1,0 +1,11 @@
+C:\C#\Curso\projetos\Mod4-Estatico\bin\Debug\netcoreapp3.1\Mod4-Estatico.exe
+C:\C#\Curso\projetos\Mod4-Estatico\bin\Debug\netcoreapp3.1\Mod4-Estatico.deps.json
+C:\C#\Curso\projetos\Mod4-Estatico\bin\Debug\netcoreapp3.1\Mod4-Estatico.runtimeconfig.json
+C:\C#\Curso\projetos\Mod4-Estatico\bin\Debug\netcoreapp3.1\Mod4-Estatico.runtimeconfig.dev.json
+C:\C#\Curso\projetos\Mod4-Estatico\bin\Debug\netcoreapp3.1\Mod4-Estatico.dll
+C:\C#\Curso\projetos\Mod4-Estatico\bin\Debug\netcoreapp3.1\Mod4-Estatico.pdb
+C:\C#\Curso\projetos\Mod4-Estatico\obj\Debug\netcoreapp3.1\Mod4-Estatico.csprojAssemblyReference.cache
+C:\C#\Curso\projetos\Mod4-Estatico\obj\Debug\netcoreapp3.1\Mod4-Estatico.AssemblyInfoInputs.cache
+C:\C#\Curso\projetos\Mod4-Estatico\obj\Debug\netcoreapp3.1\Mod4-Estatico.AssemblyInfo.cs
+C:\C#\Curso\projetos\Mod4-Estatico\obj\Debug\netcoreapp3.1\Mod4-Estatico.dll
+C:\C#\Curso\projetos\Mod4-Estatico\obj\Debug\netcoreapp3.1\Mod4-Estatico.pdb
