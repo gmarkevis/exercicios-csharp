@@ -1,0 +1,11 @@
+C:\C#\Curso\projetos\Mod6-MemoriaArrayListas\Mod6-List-fixacao\bin\Debug\netcoreapp3.1\Mod6-List-fixacao.exe
+C:\C#\Curso\projetos\Mod6-MemoriaArrayListas\Mod6-List-fixacao\bin\Debug\netcoreapp3.1\Mod6-List-fixacao.deps.json
+C:\C#\Curso\projetos\Mod6-MemoriaArrayListas\Mod6-List-fixacao\bin\Debug\netcoreapp3.1\Mod6-List-fixacao.runtimeconfig.json
+C:\C#\Curso\projetos\Mod6-MemoriaArrayListas\Mod6-List-fixacao\bin\Debug\netcoreapp3.1\Mod6-List-fixacao.runtimeconfig.dev.json
+C:\C#\Curso\projetos\Mod6-MemoriaArrayListas\Mod6-List-fixacao\bin\Debug\netcoreapp3.1\Mod6-List-fixacao.dll
+C:\C#\Curso\projetos\Mod6-MemoriaArrayListas\Mod6-List-fixacao\bin\Debug\netcoreapp3.1\Mod6-List-fixacao.pdb
+C:\C#\Curso\projetos\Mod6-MemoriaArrayListas\Mod6-List-fixacao\obj\Debug\netcoreapp3.1\Mod6-List-fixacao.csprojAssemblyReference.cache
+C:\C#\Curso\projetos\Mod6-MemoriaArrayListas\Mod6-List-fixacao\obj\Debug\netcoreapp3.1\Mod6-List-fixacao.AssemblyInfoInputs.cache
+C:\C#\Curso\projetos\Mod6-MemoriaArrayListas\Mod6-List-fixacao\obj\Debug\netcoreapp3.1\Mod6-List-fixacao.AssemblyInfo.cs
+C:\C#\Curso\projetos\Mod6-MemoriaArrayListas\Mod6-List-fixacao\obj\Debug\netcoreapp3.1\Mod6-List-fixacao.dll
+C:\C#\Curso\projetos\Mod6-MemoriaArrayListas\Mod6-List-fixacao\obj\Debug\netcoreapp3.1\Mod6-List-fixacao.pdb

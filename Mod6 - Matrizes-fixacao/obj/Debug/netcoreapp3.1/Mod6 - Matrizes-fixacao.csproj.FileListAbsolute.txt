@@ -1,0 +1,11 @@
+C:\C#\Curso\projetos\Mod6-MemoriaArrayListas\Mod6 - Matrizes-fixacao\bin\Debug\netcoreapp3.1\Mod6 - Matrizes-fixacao.exe
+C:\C#\Curso\projetos\Mod6-MemoriaArrayListas\Mod6 - Matrizes-fixacao\bin\Debug\netcoreapp3.1\Mod6 - Matrizes-fixacao.deps.json
+C:\C#\Curso\projetos\Mod6-MemoriaArrayListas\Mod6 - Matrizes-fixacao\bin\Debug\netcoreapp3.1\Mod6 - Matrizes-fixacao.runtimeconfig.json
+C:\C#\Curso\projetos\Mod6-MemoriaArrayListas\Mod6 - Matrizes-fixacao\bin\Debug\netcoreapp3.1\Mod6 - Matrizes-fixacao.runtimeconfig.dev.json
+C:\C#\Curso\projetos\Mod6-MemoriaArrayListas\Mod6 - Matrizes-fixacao\bin\Debug\netcoreapp3.1\Mod6 - Matrizes-fixacao.dll
+C:\C#\Curso\projetos\Mod6-MemoriaArrayListas\Mod6 - Matrizes-fixacao\bin\Debug\netcoreapp3.1\Mod6 - Matrizes-fixacao.pdb
+C:\C#\Curso\projetos\Mod6-MemoriaArrayListas\Mod6 - Matrizes-fixacao\obj\Debug\netcoreapp3.1\Mod6 - Matrizes-fixacao.csprojAssemblyReference.cache
+C:\C#\Curso\projetos\Mod6-MemoriaArrayListas\Mod6 - Matrizes-fixacao\obj\Debug\netcoreapp3.1\Mod6 - Matrizes-fixacao.AssemblyInfoInputs.cache
+C:\C#\Curso\projetos\Mod6-MemoriaArrayListas\Mod6 - Matrizes-fixacao\obj\Debug\netcoreapp3.1\Mod6 - Matrizes-fixacao.AssemblyInfo.cs
+C:\C#\Curso\projetos\Mod6-MemoriaArrayListas\Mod6 - Matrizes-fixacao\obj\Debug\netcoreapp3.1\Mod6 - Matrizes-fixacao.dll
+C:\C#\Curso\projetos\Mod6-MemoriaArrayListas\Mod6 - Matrizes-fixacao\obj\Debug\netcoreapp3.1\Mod6 - Matrizes-fixacao.pdb
