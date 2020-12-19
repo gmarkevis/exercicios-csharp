@@ -1,0 +1,11 @@
+C:\C#\Curso\projetos\Mod4-Classes\bin\Debug\netcoreapp3.1\Mod4-Classes.exe
+C:\C#\Curso\projetos\Mod4-Classes\bin\Debug\netcoreapp3.1\Mod4-Classes.deps.json
+C:\C#\Curso\projetos\Mod4-Classes\bin\Debug\netcoreapp3.1\Mod4-Classes.runtimeconfig.json
+C:\C#\Curso\projetos\Mod4-Classes\bin\Debug\netcoreapp3.1\Mod4-Classes.runtimeconfig.dev.json
+C:\C#\Curso\projetos\Mod4-Classes\bin\Debug\netcoreapp3.1\Mod4-Classes.dll
+C:\C#\Curso\projetos\Mod4-Classes\bin\Debug\netcoreapp3.1\Mod4-Classes.pdb
+C:\C#\Curso\projetos\Mod4-Classes\obj\Debug\netcoreapp3.1\Mod4-Classes.csprojAssemblyReference.cache
+C:\C#\Curso\projetos\Mod4-Classes\obj\Debug\netcoreapp3.1\Mod4-Classes.AssemblyInfoInputs.cache
+C:\C#\Curso\projetos\Mod4-Classes\obj\Debug\netcoreapp3.1\Mod4-Classes.AssemblyInfo.cs
+C:\C#\Curso\projetos\Mod4-Classes\obj\Debug\netcoreapp3.1\Mod4-Classes.dll
+C:\C#\Curso\projetos\Mod4-Classes\obj\Debug\netcoreapp3.1\Mod4-Classes.pdb
