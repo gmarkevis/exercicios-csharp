@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mod5-Construtores", "Mod5-Construtores.csproj", "{2158FDDD-4CA3-4979-9E1E-DD04DE80A209}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioFixacao", "..\Mod5-ExercicioFixacao\ExercicioFixacao\ExercicioFixacao\ExercicioFixacao.csproj", "{1CF6A66A-A952-46C2-B5EA-830A1F0009FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2158FDDD-4CA3-4979-9E1E-DD04DE80A209}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2158FDDD-4CA3-4979-9E1E-DD04DE80A209}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2158FDDD-4CA3-4979-9E1E-DD04DE80A209}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2158FDDD-4CA3-4979-9E1E-DD04DE80A209}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CF6A66A-A952-46C2-B5EA-830A1F0009FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CF6A66A-A952-46C2-B5EA-830A1F0009FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CF6A66A-A952-46C2-B5EA-830A1F0009FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CF6A66A-A952-46C2-B5EA-830A1F0009FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {817693AC-7B77-4DB5-A0F2-3A5445F639CC}
+	EndGlobalSection
+EndGlobal

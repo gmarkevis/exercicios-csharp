@@ -1,0 +1,11 @@
+C:\C#\Curso\projetos\Mod5-Construtores\bin\Debug\netcoreapp3.1\Mod5-Construtores.exe
+C:\C#\Curso\projetos\Mod5-Construtores\bin\Debug\netcoreapp3.1\Mod5-Construtores.deps.json
+C:\C#\Curso\projetos\Mod5-Construtores\bin\Debug\netcoreapp3.1\Mod5-Construtores.runtimeconfig.json
+C:\C#\Curso\projetos\Mod5-Construtores\bin\Debug\netcoreapp3.1\Mod5-Construtores.runtimeconfig.dev.json
+C:\C#\Curso\projetos\Mod5-Construtores\bin\Debug\netcoreapp3.1\Mod5-Construtores.dll
+C:\C#\Curso\projetos\Mod5-Construtores\bin\Debug\netcoreapp3.1\Mod5-Construtores.pdb
+C:\C#\Curso\projetos\Mod5-Construtores\obj\Debug\netcoreapp3.1\Mod5-Construtores.csprojAssemblyReference.cache
+C:\C#\Curso\projetos\Mod5-Construtores\obj\Debug\netcoreapp3.1\Mod5-Construtores.AssemblyInfoInputs.cache
+C:\C#\Curso\projetos\Mod5-Construtores\obj\Debug\netcoreapp3.1\Mod5-Construtores.AssemblyInfo.cs
+C:\C#\Curso\projetos\Mod5-Construtores\obj\Debug\netcoreapp3.1\Mod5-Construtores.dll
+C:\C#\Curso\projetos\Mod5-Construtores\obj\Debug\netcoreapp3.1\Mod5-Construtores.pdb
