@@ -1,0 +1,11 @@
+C:\C#\Curso\projetos\Mod9-enumeracao_composicao-exercicio1\Mod9-enumeracao_composicao-exercicio1\bin\Debug\netcoreapp3.1\Mod9-enumeracao_composicao-exercicio1.exe
+C:\C#\Curso\projetos\Mod9-enumeracao_composicao-exercicio1\Mod9-enumeracao_composicao-exercicio1\bin\Debug\netcoreapp3.1\Mod9-enumeracao_composicao-exercicio1.deps.json
+C:\C#\Curso\projetos\Mod9-enumeracao_composicao-exercicio1\Mod9-enumeracao_composicao-exercicio1\bin\Debug\netcoreapp3.1\Mod9-enumeracao_composicao-exercicio1.runtimeconfig.json
+C:\C#\Curso\projetos\Mod9-enumeracao_composicao-exercicio1\Mod9-enumeracao_composicao-exercicio1\bin\Debug\netcoreapp3.1\Mod9-enumeracao_composicao-exercicio1.runtimeconfig.dev.json
+C:\C#\Curso\projetos\Mod9-enumeracao_composicao-exercicio1\Mod9-enumeracao_composicao-exercicio1\bin\Debug\netcoreapp3.1\Mod9-enumeracao_composicao-exercicio1.dll
+C:\C#\Curso\projetos\Mod9-enumeracao_composicao-exercicio1\Mod9-enumeracao_composicao-exercicio1\bin\Debug\netcoreapp3.1\Mod9-enumeracao_composicao-exercicio1.pdb
+C:\C#\Curso\projetos\Mod9-enumeracao_composicao-exercicio1\Mod9-enumeracao_composicao-exercicio1\obj\Debug\netcoreapp3.1\Mod9-enumeracao_composicao-exercicio1.csprojAssemblyReference.cache
+C:\C#\Curso\projetos\Mod9-enumeracao_composicao-exercicio1\Mod9-enumeracao_composicao-exercicio1\obj\Debug\netcoreapp3.1\Mod9-enumeracao_composicao-exercicio1.AssemblyInfoInputs.cache
+C:\C#\Curso\projetos\Mod9-enumeracao_composicao-exercicio1\Mod9-enumeracao_composicao-exercicio1\obj\Debug\netcoreapp3.1\Mod9-enumeracao_composicao-exercicio1.AssemblyInfo.cs
+C:\C#\Curso\projetos\Mod9-enumeracao_composicao-exercicio1\Mod9-enumeracao_composicao-exercicio1\obj\Debug\netcoreapp3.1\Mod9-enumeracao_composicao-exercicio1.dll
+C:\C#\Curso\projetos\Mod9-enumeracao_composicao-exercicio1\Mod9-enumeracao_composicao-exercicio1\obj\Debug\netcoreapp3.1\Mod9-enumeracao_composicao-exercicio1.pdb
