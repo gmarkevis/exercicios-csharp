@@ -1,0 +1,11 @@
+C:\C#\Curso\projetos\enumeracao_composicao_exercicio-ordem-de-pedido\enumeracao_composicao_exercicio-ordem-de-pedido\bin\Debug\netcoreapp3.1\enumeracao_composicao_exercicio-ordem-de-pedido.exe
+C:\C#\Curso\projetos\enumeracao_composicao_exercicio-ordem-de-pedido\enumeracao_composicao_exercicio-ordem-de-pedido\bin\Debug\netcoreapp3.1\enumeracao_composicao_exercicio-ordem-de-pedido.deps.json
+C:\C#\Curso\projetos\enumeracao_composicao_exercicio-ordem-de-pedido\enumeracao_composicao_exercicio-ordem-de-pedido\bin\Debug\netcoreapp3.1\enumeracao_composicao_exercicio-ordem-de-pedido.runtimeconfig.json
+C:\C#\Curso\projetos\enumeracao_composicao_exercicio-ordem-de-pedido\enumeracao_composicao_exercicio-ordem-de-pedido\bin\Debug\netcoreapp3.1\enumeracao_composicao_exercicio-ordem-de-pedido.runtimeconfig.dev.json
+C:\C#\Curso\projetos\enumeracao_composicao_exercicio-ordem-de-pedido\enumeracao_composicao_exercicio-ordem-de-pedido\bin\Debug\netcoreapp3.1\enumeracao_composicao_exercicio-ordem-de-pedido.dll
+C:\C#\Curso\projetos\enumeracao_composicao_exercicio-ordem-de-pedido\enumeracao_composicao_exercicio-ordem-de-pedido\bin\Debug\netcoreapp3.1\enumeracao_composicao_exercicio-ordem-de-pedido.pdb
+C:\C#\Curso\projetos\enumeracao_composicao_exercicio-ordem-de-pedido\enumeracao_composicao_exercicio-ordem-de-pedido\obj\Debug\netcoreapp3.1\enumeracao_composicao_exercicio-ordem-de-pedido.csprojAssemblyReference.cache
+C:\C#\Curso\projetos\enumeracao_composicao_exercicio-ordem-de-pedido\enumeracao_composicao_exercicio-ordem-de-pedido\obj\Debug\netcoreapp3.1\enumeracao_composicao_exercicio-ordem-de-pedido.AssemblyInfoInputs.cache
+C:\C#\Curso\projetos\enumeracao_composicao_exercicio-ordem-de-pedido\enumeracao_composicao_exercicio-ordem-de-pedido\obj\Debug\netcoreapp3.1\enumeracao_composicao_exercicio-ordem-de-pedido.AssemblyInfo.cs
+C:\C#\Curso\projetos\enumeracao_composicao_exercicio-ordem-de-pedido\enumeracao_composicao_exercicio-ordem-de-pedido\obj\Debug\netcoreapp3.1\enumeracao_composicao_exercicio-ordem-de-pedido.dll
+C:\C#\Curso\projetos\enumeracao_composicao_exercicio-ordem-de-pedido\enumeracao_composicao_exercicio-ordem-de-pedido\obj\Debug\netcoreapp3.1\enumeracao_composicao_exercicio-ordem-de-pedido.pdb
